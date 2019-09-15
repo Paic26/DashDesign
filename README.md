@@ -1,2 +1,2 @@
 # DashDesign
-https://paic26.github.io/Dash-Design/
+https://paic26.github.io/DashDesign/
